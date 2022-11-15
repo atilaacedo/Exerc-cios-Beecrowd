@@ -27,10 +27,7 @@ public class Beecrowd1094 {
 		int totalC = 0;
 		int totalR = 0;
 		int totalS = 0;
-		
-		double porcC = 0.00;
-		double porcR = 0.00;
-		double porcS = 0.00;
+	
 		
 		if(testes > 0) {
 			

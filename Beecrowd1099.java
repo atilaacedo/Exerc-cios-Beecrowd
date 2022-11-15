@@ -55,5 +55,7 @@ Imprima a soma de todos valores ímpares entre X e Y.
 						}
 						System.out.println(soma[k]);
 					}
+					
+		s.close();
 	}
 }
